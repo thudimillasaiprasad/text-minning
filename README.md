@@ -1,0 +1,2 @@
+# text-minning
+word text 
